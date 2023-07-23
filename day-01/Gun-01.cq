@@ -1,0 +1,12 @@
+30 günlük maceramızın her günü, bir önceki günün materyalleri üzerine inşa edilecek ve bize Vue çerçevesinin çeşitli terimleri, kavramları ve temelleri hakkında iyi bir giriş sağlayacaktır.
+
+Bu seri temel olarak daha önce Vue bilgisi olmayan ve JavaScript konusunda az ya da çok deneyimi olan okuyuculara yöneliktir. Bu eğitim, materyali makaleden makaleye doğrusal olarak ele almanız için hazırlanmış olsa da, belirli kavramları zaten kavradığınızı düşünüyorsanız, eğitimde atlamaktan memnuniyet duyarsınız.
+
+Tüm bunları söyledikten sonra, başlayalım. En baştan Vue'nun ne olduğunu tartışarak başlayacağız.
+
+Vue nedir?
+
+    Vue, Evan You tarafından oluşturulan, kullanıcı arayüzleri oluşturmaya yönelik açık kaynaklı bir JavaScript çerçevesidir. Ana web sitesinin ön sayfasına bir göz atarsak, Vue'nun ulaşılabilir, çok yönlü ve performanslı ilerici bir JavaScript çerçevesi olduğunun söylendiğini görebiliriz. Şimdi bu noktaların her birini açıklayalım:
+
+Aşamalı
+Vue, genellikle ölçeklendirilebildiği gibi ölçeklendirilebildiği için aşamalı olarak kabul edilir. Çok basit kullanım durumları için, Vue'yu jQuery'yi kullandığınız gibi kullanabilirsiniz - tek bir komut dosyası etiketi bırakarak:
